@@ -1,5 +1,6 @@
 # New-GitHub-Repository-for-Class-one
-Jon Ernest
+## Jon Ernest
+
 
 I grew up in Chicago, and went to undergrad at UVM where I studied Economics.
 
