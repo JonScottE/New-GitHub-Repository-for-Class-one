@@ -1,6 +1,11 @@
 # New-GitHub-Repository-for-Class-one
 ## Jon Ernest
 
+![image](https://user-images.githubusercontent.com/91569353/138565681-5fe059ef-4e40-4940-ad28-7657c4813bb7.png)
+### Soooo Handsome!!!
+
+### table of contents description
+-[chapter 1](#chapter1)
 
 I grew up in Chicago, and went to undergrad at UVM where I studied Economics.
 
